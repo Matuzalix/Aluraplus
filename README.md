@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>Aluraplus</h1>
 
 <h2>Sobre</h2>
 <p>Projeto desenvolvido no curso de HTML e CSS da Alura.</p>
